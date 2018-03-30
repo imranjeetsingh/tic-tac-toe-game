@@ -1,3 +1,12 @@
+.hero2{
+    background: rgb(224, 240, 234);
+}
+.hero{
+    background: rgb(220, 221, 161);
+}
+.jumbotron{
+    text-align: center;
+}
 td{
     height: 150px;
     width: 150px;
@@ -5,4 +14,14 @@ td{
     text-align: center;
     font-size: 100px;
     background-color: darkgrey;
+}
+
+#one{
+    text-align: center;
+}
+#two{
+    text-align: center;
+}
+#three{
+    text-align: center;
 }
